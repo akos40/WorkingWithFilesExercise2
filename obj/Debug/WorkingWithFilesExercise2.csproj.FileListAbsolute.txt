@@ -1,0 +1,7 @@
+C:\Users\Ákos\source\repos\WorkingWithFilesExercise2\WorkingWithFilesExercise2\bin\Debug\WorkingWithFilesExercise2.exe.config
+C:\Users\Ákos\source\repos\WorkingWithFilesExercise2\WorkingWithFilesExercise2\bin\Debug\WorkingWithFilesExercise2.exe
+C:\Users\Ákos\source\repos\WorkingWithFilesExercise2\WorkingWithFilesExercise2\bin\Debug\WorkingWithFilesExercise2.pdb
+C:\Users\Ákos\source\repos\WorkingWithFilesExercise2\WorkingWithFilesExercise2\obj\Debug\WorkingWithFilesExercise2.csprojAssemblyReference.cache
+C:\Users\Ákos\source\repos\WorkingWithFilesExercise2\WorkingWithFilesExercise2\obj\Debug\WorkingWithFilesExercise2.csproj.CoreCompileInputs.cache
+C:\Users\Ákos\source\repos\WorkingWithFilesExercise2\WorkingWithFilesExercise2\obj\Debug\WorkingWithFilesExercise2.exe
+C:\Users\Ákos\source\repos\WorkingWithFilesExercise2\WorkingWithFilesExercise2\obj\Debug\WorkingWithFilesExercise2.pdb
